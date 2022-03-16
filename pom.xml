@@ -48,6 +48,8 @@
                 <version>2.12.4</version>
             </plugin>
         </plugins>
+        
+        <testSourceDirectory>src/test/java</testSourceDirectory>
     </build>
 
 
